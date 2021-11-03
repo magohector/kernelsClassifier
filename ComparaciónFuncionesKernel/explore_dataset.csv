@@ -1,0 +1,8 @@
+,name,nreg,ndim,nclass
+0,breast cancer,569,30,2
+1,digits,1797,64,10
+2,iris,150,4,3
+3,wine,178,13,3
+4,circles,500,2,2
+5,xor,250,2,2
+6,spiral,1000,2,2
